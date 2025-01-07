@@ -1,0 +1,318 @@
+---
+title: "Geography 780 Neighborhoods"
+subtitle: "Spring 2025"
+format:
+  html:
+    theme: cosmo 
+  pdf:
+    colorlinks: true
+---
+<hr>
+
+
+## Class Meetings
+
+| Meeting | Location | Time             |
+|---------|----------|------------------|
+| Seminar | SH 325   | Mon 12:00-2:40pm |
+
+
+## Instructor
+
+| Name                                                     | Office hours                                                                  | Location                                                                                                                      |
+|----------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| [Sergio Rey](https://geography.sdsu.edu/people/bios/rey) | [Mon 3:00 - 4:00pm (by appointment)](https://calendly.com/sjsrey/office-hours) | [PSFA 361G](https://map.concept3d.com/?id=801#!ce/12160?ct/62917,40419,40418,20161,15205,48503,54894,16202,12164?m/147097?s/) |
+
+
+
+## Introduction
+This  seminar explores the concept of neighborhoods from a
+theoretical, empirical, and methodological perspective, emphasizing
+geospatial tools such as PySAL and GeoSnap. We will engage with
+classic and contemporary research on neighborhood delineation, change,
+segregation, and accessibility, while also applying geospatial data
+science techniques to real-world urban policy questions.
+
+Each week will feature student-led discussions, focusing on key
+academic readings and methodological approaches. The seminar will
+culminate in a group project where students analyze a
+neighborhood-related research question using geospatial methods.
+
+
+## Prerequisites
+
+- Graduate standing or permission of instructor
+
+## Computational Learning
+
+We will be using [open
+source](https://en.wikipedia.org/wiki/Open-source_software) geospatial
+software throughout the course together with [Jupyter
+Notebooks](https://jupyter.org), and [Python](https://python.org) as our
+scripting language.
+
+All software for the course will be made available through
+[JupyterHub](https://jupyter.org/), a web-based framework. Students
+wishing to install these materials on their own machines will be given
+instructions to do so, **but this is not required**.
+
+## Readings
+
+All required readings are available through the links listed
+below. Assigned readings should be completed before the date listed in
+the schedule (see below). Readings are a critical part of the
+discussions we will hold in class, and therefore being prepared for class
+means having completed the readings and thought about the
+content. It will be difficult to do well in this course without having
+completed the readings.
+
+## Schedule
+
+### Week 1 (01-27) Introduction
+- Course Introduction
+- Introduction to computational resources
+
+### Week 2 (02-03) Neighborhoods
+
+#### Readings
+- Galster, George. “On the Nature of Neighbourhood.” Urban Studies (Routledge) 38, no. 12 (November 2001): 2111–24. https://doi.org/10.1080/00420980120087072.
+- Sampson, Robert J., Jeffrey D. Morenoff, and Thomas Gannon-Rowley. “Assessing ‘Neighborhood Effects’: Social Processes and New Directions in Research.” Annual Review of Sociology 28, no. 1 (August 2002): 443–78. https://doi.org/10.1146/annurev.soc.28.110601.141114.
+
+#### Activity
+- Python Primer
+- Exercise 1 Out (Due 02-21)
+
+
+### Week 3 (02-10) Neighborhood Data
+
+#### Readings
+- Logan, John R., Brian J. Stults, and Zengwang Xu. “Validating Population Estimates for Harmonized Census Tract Data, 2000-2010.” Annals of the American Association of Geographers 106, no. 5 (September 2016): 1013–29. https://doi.org/10.1080/24694452.2016.1187060.
+- Schroeder, Jonathan P. “Hybrid Areal Interpolation of Census Counts from 2000 Blocks to 2010 Geographies.” Computers, Environment and Urban Systems 62 (March 2017): 53–63. https://doi.org/10.1016/j.compenvurbsys.2016.10.001.
+
+#### Activity
+- Geopandas
+
+### Week 4 (02-17) Neighborhood Delineation
+
+#### Readings
+- Delmelle, Elizabeth C. “Five Decades of Neighborhood Classifications and Their Transitions: A Comparison of Four US Cities, 1970–2010.” Applied Geography 57 (February 2015): 1–11. https://doi.org/10.1016/j.apgeog.2014.12.002.
+- Rey, Sergio J., L. Anselin, D.C. Folch, D. Arribas-Bel, M.L. Sastré Gutiérrez, and L. Interlante. “Measuring Spatial Dynamics in Metropolitan Areas.” Economic Development Quarterly 25, no. 1 (2011): 54.
+
+#### Activity
+- GeoSNAP 
+- Exercise 2 Out (Due  02-28)
+
+### Week 5 (02-24) Neighborhood Change
+
+#### Readings
+
+- Kang, Wei, Elijah Knaap, and Sergio Rey. “Changes in the Economic Status of Neighbourhoods in US Metropolitan Areas from 1980 to 2010: Stability, Growth and Polarisation.” Urban Studies, 2021, 27.
+- Owens, Ann. “Neighborhoods on the Rise: A Typology of Neighborhoods Experiencing Socioeconomic Ascent.” City & Community 11, no. 4 (2012): 345–69. https://doi.org/10.1111/j.1540-6040.2012.01412.x.
+
+#### Activity
+- Modeling neighborhood change
+
+
+### Week 6 (03-03) Neighborhood Gentrification
+
+#### Readings
+
+- Gray, Jennie, Lisa Buckner, and Alexis Comber. “Identifying Neighbourhood Change Using a Data Primitive Approach: The Example of Gentrification.” Applied Spatial Analysis and Policy, March 8, 2023. https://doi.org/10.1007/s12061-023-09509-y.
+- Rucks-Ahidiana, Zawadi. “Racial Composition and Trajectories of Gentrification in the United States.” Urban Studies 58, no. 13 (October 2021): 2721–41. https://doi.org/10.1177/0042098020963853.
+
+#### Activity
+- Measuring gentrification
+- Exercise 3 Out (Due  03-14)
+
+### Week 7 (03-10) Neighborhood Accessibility
+
+#### Readings
+- Knaap, Elijah. “The Cartography of Opportunity: Spatial Data Science for Equitable Urban Policy.” Housing Policy Debate 27, no. 6 (November 2, 2017): 913–40. https://doi.org/10.1080/10511482.2017.1331930.
+- Wang, Jianying, Mei-Po Kwan, Gezhi Xiu, and Fangxu Deng. “A Robust Method for Evaluating the Potentials of 15-Minute Cities: Implications for Sustainable Urban Futures.” Geography and Sustainability, August 2024, S2666683924000646. https://doi.org/10.1016/j.geosus.2024.07.004.
+
+#### Activity
+- Isochrones and center identification
+
+
+### Week 8 (03-17) Neighborhood Segregation
+
+#### Readings
+- Knaap, Elijah, and Sergio Rey. “Segregated by Design? Street Network Topological Structure and the Measurement of Urban Segregation.” Environment and Planning B: Urban Analytics and City Science 51, no. 7 (September 2024): 1408–29. https://doi.org/10.1177/23998083231197956.
+- Rey, Sergio Joseph, and Elijah Knaap. “The Legacy of Redlining: A Spatial Dynamics Perspective.” International Regional Science Review, August 7, 2022, 016001762211165. https://doi.org/10.1177/01600176221116566.
+
+#### Activity
+- Comparative segregation
+- Exercise 4 Out (Due  04-11)
+
+### Week 9 (03-24) Project Studio: Introduction and Proposal Development
+- Form project teams
+- Identify research question & study area
+- Brainstorm data needs and methodology
+- Workshop: How to frame a good research question
+
+### Spring Break (03-31)
+
+### Week 10 (04-07) Project Studio: Data Collection and Processing
+- Identify and obtain relevant neighborhood data
+- Data integration, cleaning, harmonization and interpolation
+
+### Week 11 (04-14) Project Studio: Exploratory Data Analysis and Visualization
+- Teams create initial exploratory analyses of data and statistical visualizations
+
+### Week 12 (04-21) Project Studio: Analytical Methods and Model Development
+- Teams explore  models and analytics for their specific project
+
+### Week 13 (04-28) Project Studio: Analysis and Results
+- Continued analysis and model refinement 
+- Generation of initial findings
+
+### Week 14 (05-05) Project Studio: Drafting Report and Initial Presentation
+- Teams outline final report structure
+- Practice presentations in small groups
+
+
+### Final Exam Activity
+- Teams present their project
+
+## Grading
+
+
+GEOG 780 uses [specification
+grading](https://www.insidehighered.com/views/2016/01/19/new-ways-grade-more-effectively-essay)
+in evaluating student work and in determining your final course grade.
+The quality and quantity of your work will determine your course grade.
+The acceptable level of quality demonstrates competency in the
+concepts and methods covered in the course.
+
+There is a two-step process for determination of your final course grade
+at the end of the quarter:
+
+1.  Using your quizzes and  exercises, your **base grade** is
+    determined.
+2.  Using your final exam results, determine if your base grade includes
+    a \"plus\", \"minus\", or level drop to form the course grade.
+
+
+### Base Grade
+For Step 1, the base grade is determined using the following
+specification:
+
+Thresholds for base grade:
+
+| Item                     | A- | B- | C- | D- |
+|--------------------------|---:|---:|---:|---:|
+| Quizzes                  | 12 | 10 |  8 |  6 |
+| Discussion Lead          |  1 |  1 |    |    |
+| Discussion Participation |  6 |  5 |  4 |  3 |
+| Exercises                |  4 |  3 |  2 |  1 |
+| Project                  |  1 |  1 |    |    |
+
+You must pass all the  thresholds to obtain the base grade.
+
+### Final Grade
+For Step 2, your final course grade is determined as follows:
+
+
+| Tokens\\Base | A- | B- | C- | D- |
+|--------------|----|----|----|----|
+| >=2          | A  | B+ | C+ | D+ |
+| 1            | A  | B  | C  | D  |
+| 0            | A- | B- | C- | D- |
+
+
+
+::: {.callout-note}
+Note that SDSU grading policy does not allow A+ grades.
+However, if you have a base grade of A and score 90+ on your exam average, you are eligible for a letter of recommendation from the professor.
+:::
+
+ 
+
+## Quizzes
+
+Starting in week two there will be a quiz due before a session that pertains to
+the background reading that is required before our work in class.  Quizzes are
+graded on a pass/fail basis.
+
+## Exercises
+
+Four exercises are assigned on the dates listed in the syllabus. These
+ exercises are evaluated based on whether they demonstrate a
+ sufficient understanding of the covered content. When an assignment
+ is deemed satisfactory, it indicates that the student has effectively
+ showcased their comprehension of the subject matter.
+
+
+
+## Tokens {#sec-tokens}
+
+Each student is provided with three tokens at the beginning of the
+semester.
+
+### Using Tokens
+
+1. Credit for a reading quiz that was failed (1 token).
+
+1. Obtaining a one-day extension for an exercise  prior to due date (1 token).
+
+2. Revising  an exercise  that was submitted on-time but evaluated as unsatisfactory (2 tokens).
+
+
+
+## Policies
+### Accommodations
+If you are a student with a disability and are in need of
+accommodations for this class, please contact Student Ability
+Success Center at (619) 594-6473 as soon as possible.  Please know
+accommodations are not retroactive, and I cannot provide
+accommodations based upon disability until I have received an
+accommodation letter from Student Ability Success Center.
+
+### Privacy and Intellectual Property
+Student Privacy and Intellectual Property: The Family Educational
+Rights and Privacy Act (FERPA) mandates the protection of student
+information, including contact information, grades, and graded
+assignments. I will use Canvas to communicate with you,
+and I will not post grades or leave graded assignments in public
+places. Students will be notified at the time of an assignment if
+copies of student work will be retained beyond the end of the semester
+or used as examples for future students or the wider public. Students
+maintain intellectual property rights to work products they create as
+part of this course unless they are formally notified otherwise.
+
+
+### Academic Integrity
+
+The SDSU student academic integrity policy lists violations in detail.
+These violations fall into eight broad areas that include but are not
+limited to: cheating, fabrication, plagiarism, facilitating academic
+misconduct, unauthorized collaboration, interference or sabotage,
+non-compliance with research regulations and retaliation. For more
+information about the SDSU student academic integrity policy, please see
+the following: <https://sacd.sdsu.edu/student-rights/academic-dishonesty>.
+
+
+### Code of Conduct
+
+As course instructor, I am dedicated to providing a harassment-free
+learning experience for all students, regardless of gender, sexual
+orientation, disability, physical appearance, body size, race, religion,
+or choice of operating system. All course participants are expected to
+show respect and courtesy to other students throughout the semester. As
+a learning community we do not tolerate harassment of participants in
+any form.
+
+-   All communication should be appropriate for a professional audience
+    including people of many different backgrounds. Sexual language and
+    imagery are not appropriate in this course.
+
+-   Be kind to others. Do not insult or put down other students. Behave
+    professionally. Remember that harassment and sexist, racist, or
+    exclusionary jokes are not appropriate for this course.
+
+-   Students violating these rules may be asked to leave the course, and
+    their violations will be reported to the SDSU administration.
+
+This code of conduct is an adaptation of the [SciPy 2018 Code of
+Conduct](https://scipy2018.scipy.org/ehome/299527/648147/index9a04.html).
+
