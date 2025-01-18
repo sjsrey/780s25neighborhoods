@@ -201,9 +201,9 @@ Thresholds for base grade:
 
 | Item                     | A- | B- | C- | D- |
 |--------------------------|---:|---:|---:|---:|
-| Quizzes                  | 12 | 10 |  8 |  6 |
+| Quizzes                  |  6 |  4 |  3 |  2 |
 | Discussion Lead          |  1 |  1 |    |    |
-| Discussion Participation |  6 |  5 |  4 |  3 |
+| Discussion Participation |  6 |  4 |  3 |  2 |
 | Exercises                |  4 |  3 |  2 |  1 |
 | Project                  |  1 |  1 |    |    |
 
@@ -226,11 +226,15 @@ Note that SDSU grading policy does not allow A+ grades.
 However, if you have a base grade of A and score 90+ on your exam average, you are eligible for a letter of recommendation from the professor.
 :::
 
+## Discussion
+A key component of the first part of the course is a focus on readings from the scientific literature on  neighborhoods. Each student will be [assigned](presentation_schedule.qmd) a [discussion lead](presentation_guidelines.qmd), and all students are expected to participate in the class discussions of the weekly readings.
+
  
 
 ## Quizzes
 
-Starting in week two there will be a quiz due before a session that pertains to
+Starting in week two there will be a quiz given during the first 5 minutes of our meeting
+that pertains to
 the background reading that is required before our work in class.  Quizzes are
 graded on a pass/fail basis.
 

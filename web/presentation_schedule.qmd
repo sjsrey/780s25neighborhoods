@@ -1,0 +1,19 @@
+# Presentation Schedule
+
+| Week | Date  | Reading             | Lead         |
+|------|-------|---------------------|--------------|
+| 2    | 02-03 | Galster 2001        | Skrah        |
+|      | 02-03 | Sampson 2002        | Henderson    |
+| 3    | 02-10 | Logan 2016          | Zoccheddu    |
+|      | 02-10 | Schroeder 2017      | Ghebrendrias |
+| 4    | 02-17 | Delmelle 2015       | Vingiello    |
+|      | 02-17 | Rey 2011            | Euceda       |
+| 5    | 02-24 | Kang 2021           | Valencia     |
+|      | 02-24 | Owens 2012          | Levin        |
+| 6    | 03-03 | Gray 2023           | Twyman       |
+|      | 03-03 | Rucks-Ahidiana 2021 | Mower        |
+| 7    | 03-10 | Knaap 2017          | Portillo     |
+|      | 03-10 | Wang 2024           | Ornelas      |
+| 8    | 03-17 | Knaap 2024          | TBA          |
+|      | 03-17 | Rey 2024            | TBA          |
+
