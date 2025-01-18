@@ -227,7 +227,7 @@ However, if you have a base grade of A and score 90+ on your exam average, you a
 :::
 
 ## Discussion
-A key component of the first part of the course is a focus on readings from the scientific literature on  neighborhoods. Each student will be [assigned](presentation_schedule.qmd) a [discussion lead](presentation_guidelines.qmd), and all students are expected to participate in the class discussions of the weekly readings.
+A key component of the first part of the course is a focus on readings from the scientific literature on  neighborhoods. Each student will be [assigned](presentation_schedule.qmd) a [discussion lead](presentation_guidelines.qmd), and all students are expected to participate in the class discussions of the weekly readings. All weekly readings are available on the [canvas course site](https://sdsu.instructure.com/courses/173368/assignments).
 
  
 
