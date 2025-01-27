@@ -1,0 +1,240 @@
+[
+  {
+    "objectID": "presentation_guidelines.html",
+    "href": "presentation_guidelines.html",
+    "title": "",
+    "section": "",
+    "text": "Code"
+  },
+  {
+    "objectID": "presentation_guidelines.html#objective",
+    "href": "presentation_guidelines.html#objective",
+    "title": "",
+    "section": "Objective",
+    "text": "Objective\nThe goal of the presentation is to summarize and critically evaluate the assigned article while fostering an engaging discussion with the class."
+  },
+  {
+    "objectID": "presentation_guidelines.html#structure",
+    "href": "presentation_guidelines.html#structure",
+    "title": "",
+    "section": "Structure",
+    "text": "Structure\n\n1. Preparation\n\nRead the article thoroughly and understand its key points, methods, and findings.\nIdentify the article’s contribution to the field and any limitations or critiques.\nPrepare visuals (e.g., slides) if needed to clarify concepts or highlight key results.\n\n\n\n2. Content to Cover\n\nIntroduction: Provide context and background for the research topic.\nResearch Question: Clearly state the objectives or hypotheses addressed in the article.\nMethods: Briefly describe the methodology used, focusing on innovative or unique aspects.\nKey Findings: Highlight the main results and their implications.\nStrengths and Limitations: Discuss the article’s contributions and areas where it could be improved.\nConnections: Relate the article to broader course themes or real-world applications.\n\n\n\n3. Engagement\n\nPrepare 2-3 discussion questions in advance.\nActively engage classmates by asking questions or inviting their input on specific aspects of the article."
+  },
+  {
+    "objectID": "presentation_guidelines.html#suggested-schedule-35-minutes",
+    "href": "presentation_guidelines.html#suggested-schedule-35-minutes",
+    "title": "",
+    "section": "Suggested Schedule (35 Minutes)",
+    "text": "Suggested Schedule (35 Minutes)\n\n1. Presentation (20 minutes)\n\n2 minutes: Introduction\n\nProvide context and introduce the research question.\n\n3 minutes: Background and Literature Review\n\nSummarize the theoretical or empirical background leading to the research.\n\n5 minutes: Methods\n\nExplain the methodology, including the data, study design, or techniques used.\n\n5 minutes: Key Findings\n\nPresent the results clearly, using visuals or examples where appropriate.\n\n3 minutes: Analysis and Critique\n\nDiscuss strengths, weaknesses, and limitations of the article.\n\n\n\n\n2. Discussion (15 minutes)\n\n2 minutes: Transition to Discussion\n\nSummarize key takeaways and pose prepared discussion questions.\n\n10 minutes: Class Discussion\n\nFacilitate a conversation around the prepared questions and encourage classmates to share their thoughts or critiques.\n\n3 minutes: Wrap-Up\n\nSummarize the key points from the discussion and connect them back to the article’s significance."
+  },
+  {
+    "objectID": "presentation_guidelines.html#tips-for-success",
+    "href": "presentation_guidelines.html#tips-for-success",
+    "title": "",
+    "section": "Tips for Success",
+    "text": "Tips for Success\n\nTime Management: Practice your presentation to ensure it fits within 20 minutes, leaving ample time for discussion.\nClarity: Use simple language to explain technical concepts or methods, ensuring everyone can follow along.\nVisuals: Use slides or diagrams effectively to enhance understanding but avoid overcrowding them with text.\nEngagement: Keep the discussion dynamic by encouraging participation from a wide range of classmates.\nPreparation: Have a backup plan in case there are few responses to your discussion questions (e.g., additional examples or follow-up questions)."
+  },
+  {
+    "objectID": "syllabus.html#class-meetings",
+    "href": "syllabus.html#class-meetings",
+    "title": "Geography 780 Neighborhoods",
+    "section": "Class Meetings",
+    "text": "Class Meetings\n\n\n\nMeeting\nLocation\nTime\n\n\n\n\nSeminar\nSH 325\nMon 12:00-2:40pm"
+  },
+  {
+    "objectID": "syllabus.html#instructor",
+    "href": "syllabus.html#instructor",
+    "title": "Geography 780 Neighborhoods",
+    "section": "Instructor",
+    "text": "Instructor\n\n\n\nName\nOffice hours\nLocation\n\n\n\n\nSergio Rey\nMon 3:00 - 4:00pm (by appointment)\nPSFA 361G"
+  },
+  {
+    "objectID": "syllabus.html#introduction",
+    "href": "syllabus.html#introduction",
+    "title": "Geography 780 Neighborhoods",
+    "section": "Introduction",
+    "text": "Introduction\nThis seminar explores the concept of neighborhoods from a theoretical, empirical, and methodological perspective, emphasizing geospatial tools such as PySAL and GeoSnap. We will engage with classic and contemporary research on neighborhood delineation, change, segregation, and accessibility, while also applying geospatial data science techniques to real-world urban policy questions.\nEach week will feature student-led discussions, focusing on key academic readings and methodological approaches. The seminar will culminate in a group project where students analyze a neighborhood-related research question using geospatial methods."
+  },
+  {
+    "objectID": "syllabus.html#prerequisites",
+    "href": "syllabus.html#prerequisites",
+    "title": "Geography 780 Neighborhoods",
+    "section": "Prerequisites",
+    "text": "Prerequisites\n\nGraduate standing or permission of instructor"
+  },
+  {
+    "objectID": "syllabus.html#computational-learning",
+    "href": "syllabus.html#computational-learning",
+    "title": "Geography 780 Neighborhoods",
+    "section": "Computational Learning",
+    "text": "Computational Learning\nWe will be using open source geospatial software throughout the course together with Jupyter Notebooks, and Python as our scripting language.\nAll software for the course will be made available through JupyterHub, a web-based framework. Students wishing to install these materials on their own machines will be given instructions to do so, but this is not required."
+  },
+  {
+    "objectID": "syllabus.html#readings",
+    "href": "syllabus.html#readings",
+    "title": "Geography 780 Neighborhoods",
+    "section": "Readings",
+    "text": "Readings\nAll required readings are available through the links listed below. Assigned readings should be completed before the date listed in the schedule (see below). Readings are essential for class discussions. Please complete them and reflect on their content before class."
+  },
+  {
+    "objectID": "syllabus.html#schedule",
+    "href": "syllabus.html#schedule",
+    "title": "Geography 780 Neighborhoods",
+    "section": "Schedule",
+    "text": "Schedule\n\nWeek 1 (01-27) Introduction\n\nCourse Introduction\nIntroduction to computational resources\n\n\n\nWeek 2 (02-03) Neighborhoods\n\nReadings\n\nGalster, George. “On the Nature of Neighbourhood.” Urban Studies (Routledge) 38, no. 12 (November 2001): 2111–24. https://doi.org/10.1080/00420980120087072.\nSampson, Robert J., Jeffrey D. Morenoff, and Thomas Gannon-Rowley. “Assessing ‘Neighborhood Effects’: Social Processes and New Directions in Research.” Annual Review of Sociology 28, no. 1 (August 2002): 443–78. https://doi.org/10.1146/annurev.soc.28.110601.141114.\n\n\n\nActivity\n\nPython Primer\nExercise 1 Out (Due 02-21)\n\n\n\n\nWeek 3 (02-10) Neighborhood Data\n\nReadings\n\nLogan, John R., Brian J. Stults, and Zengwang Xu. “Validating Population Estimates for Harmonized Census Tract Data, 2000-2010.” Annals of the American Association of Geographers 106, no. 5 (September 2016): 1013–29. https://doi.org/10.1080/24694452.2016.1187060.\nSchroeder, Jonathan P. “Hybrid Areal Interpolation of Census Counts from 2000 Blocks to 2010 Geographies.” Computers, Environment and Urban Systems 62 (March 2017): 53–63. https://doi.org/10.1016/j.compenvurbsys.2016.10.001.\n\n\n\nActivity\n\nGeopandas\n\n\n\n\nWeek 4 (02-17) Neighborhood Delineation\n\nReadings\n\nDelmelle, Elizabeth C. “Five Decades of Neighborhood Classifications and Their Transitions: A Comparison of Four US Cities, 1970–2010.” Applied Geography 57 (February 2015): 1–11. https://doi.org/10.1016/j.apgeog.2014.12.002.\nRey, Sergio J., L. Anselin, D.C. Folch, D. Arribas-Bel, M.L. Sastré Gutiérrez, and L. Interlante. “Measuring Spatial Dynamics in Metropolitan Areas.” Economic Development Quarterly 25, no. 1 (2011): 54.\n\n\n\nActivity\n\nGeoSNAP\nExercise 2 Out (Due 02-28)\n\n\n\n\nWeek 5 (02-24) Neighborhood Change\n\nReadings\n\nKang, Wei, Elijah Knaap, and Sergio Rey. “Changes in the Economic Status of Neighbourhoods in US Metropolitan Areas from 1980 to 2010: Stability, Growth and Polarisation.” Urban Studies, 2021, 27.\nOwens, Ann. “Neighborhoods on the Rise: A Typology of Neighborhoods Experiencing Socioeconomic Ascent.” City & Community 11, no. 4 (2012): 345–69. https://doi.org/10.1111/j.1540-6040.2012.01412.x.\n\n\n\nActivity\n\nModeling neighborhood change\n\n\n\n\nWeek 6 (03-03) Neighborhood Gentrification\n\nReadings\n\nGray, Jennie, Lisa Buckner, and Alexis Comber. “Identifying Neighbourhood Change Using a Data Primitive Approach: The Example of Gentrification.” Applied Spatial Analysis and Policy, March 8, 2023. https://doi.org/10.1007/s12061-023-09509-y.\nRucks-Ahidiana, Zawadi. “Racial Composition and Trajectories of Gentrification in the United States.” Urban Studies 58, no. 13 (October 2021): 2721–41. https://doi.org/10.1177/0042098020963853.\n\n\n\nActivity\n\nMeasuring gentrification\nExercise 3 Out (Due 03-14)\n\n\n\n\nWeek 7 (03-10) Neighborhood Accessibility\n\nReadings\n\nKnaap, Elijah. “The Cartography of Opportunity: Spatial Data Science for Equitable Urban Policy.” Housing Policy Debate 27, no. 6 (November 2, 2017): 913–40. https://doi.org/10.1080/10511482.2017.1331930.\nWang, Jianying, Mei-Po Kwan, Gezhi Xiu, and Fangxu Deng. “A Robust Method for Evaluating the Potentials of 15-Minute Cities: Implications for Sustainable Urban Futures.” Geography and Sustainability, August 2024, S2666683924000646. https://doi.org/10.1016/j.geosus.2024.07.004.\n\n\n\nActivity\n\nIsochrones and center identification\nProject Call for Proposals\n\n\n\n\nWeek 8 (03-17) Neighborhood Segregation\n\nReadings\n\nKnaap, Elijah, and Sergio Rey. “Segregated by Design? Street Network Topological Structure and the Measurement of Urban Segregation.” Environment and Planning B: Urban Analytics and City Science 51, no. 7 (September 2024): 1408–29. https://doi.org/10.1177/23998083231197956.\nRey, Sergio Joseph, and Elijah Knaap. “The Legacy of Redlining: A Spatial Dynamics Perspective.” International Regional Science Review, August 7, 2022, 016001762211165. https://doi.org/10.1177/01600176221116566.\n\n\n\nActivity\n\nComparative segregation\nExercise 4 Out (Due 04-11)\nProject Preferences\n\n\n\n\nWeek 9 (03-24) Project Studio: Introduction and Proposal Development\n\nForm project teams\nIdentify research question & study area\nBrainstorm data needs and methodology\nWorkshop: How to frame a good research question\n\n\n\nSpring Break (03-31)\n\n\nWeek 10 (04-07) Project Studio: Data Collection and Processing\n\nIdentify and obtain relevant neighborhood data\nData integration, cleaning, harmonization and interpolation\nProject Scoping Document (Due)\n\n\n\nWeek 11 (04-14) Project Studio: Exploratory Data Analysis and Visualization\n\nTeams create initial exploratory analyses of data and statistical visualizations\nProject Data Bibliography (Due)\n\n\n\nWeek 12 (04-21) Project Studio: Analytical Methods and Model Development\n\nTeams explore models and analytics for their specific project\nProject Exploratory Analysis (Due)\n\n\n\nWeek 13 (04-28) Project Studio: Analysis and Results\n\nContinued analysis and model refinement\nGeneration of initial findings\nProject Analytical Draft (Due)\n\n\n\nWeek 14 (05-05) Project Studio: Drafting Report and Initial Presentation\n\nTeams outline final report structure\nPractice presentations in small groups\n\n\n\nFinal Exam Activity (05-12)\n\nTeams present their project\nProject Computational Essay and Presentations Due"
+  },
+  {
+    "objectID": "syllabus.html#grading",
+    "href": "syllabus.html#grading",
+    "title": "Geography 780 Neighborhoods",
+    "section": "Grading",
+    "text": "Grading\nGEOG 780 uses specification grading in evaluating student work and in determining your final course grade. The quality and quantity of your work will determine your course grade. The acceptable level of quality demonstrates competency in the concepts and methods covered in the course.\nThere is a two-step process for determination of your final course grade at the end of the quarter:\n\nUsing your quizzes, project, and exercise grades together determine your base grade.\nUsing your remaining tokens, determine if your base grade includes a \"plus\", \"minus\", or remains as your final grade.\n\n\nBase Grade\nFor Step 1, the base grade is determined using the following specification:\nThresholds for base grade:\n\n\n\nItem\nA\nB\nC\nD\n\n\n\n\nQuizzes\n6\n4\n3\n2\n\n\nDiscussion Lead\n1\n1\n\n\n\n\nDiscussion Participation\n6\n4\n3\n2\n\n\nExercises\n4\n3\n2\n1\n\n\nProject\n1\n1\n\n\n\n\n\nYou must pass all the thresholds to obtain the base grade.\n\n\nFinal Grade\nFor Step 2, your final course grade is determined as follows:\n\n\n\nTokens\\Base\nA\nB\nC\nD\n\n\n\n\n&gt;=2\nA\nB+\nC+\nD+\n\n\n1\nA\nB\nC\nD\n\n\n0\nA-\nB-\nC-\nD-\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nNote that SDSU grading policy does not allow A+ grades. However, if you have a base grade of A and score 90+ on your exam average, you are eligible for a letter of recommendation from the professor."
+  },
+  {
+    "objectID": "syllabus.html#discussion",
+    "href": "syllabus.html#discussion",
+    "title": "Geography 780 Neighborhoods",
+    "section": "Discussion",
+    "text": "Discussion\nA key component of the first part of the course is a focus on readings from the scientific literature on neighborhoods. Each student will be assigned a discussion lead, and all students are expected to participate in the class discussions of the weekly readings. All weekly readings are available on the canvas course site."
+  },
+  {
+    "objectID": "syllabus.html#quizzes",
+    "href": "syllabus.html#quizzes",
+    "title": "Geography 780 Neighborhoods",
+    "section": "Quizzes",
+    "text": "Quizzes\nStarting in week two there will be a quiz given during the first 5 minutes of our meeting that pertains to the background reading that is required before our work in class. Quizzes are graded on a pass/fail basis."
+  },
+  {
+    "objectID": "syllabus.html#exercises",
+    "href": "syllabus.html#exercises",
+    "title": "Geography 780 Neighborhoods",
+    "section": "Exercises",
+    "text": "Exercises\nFour exercises are assigned on the dates listed in the syllabus. These exercises are evaluated based on whether they demonstrate a sufficient understanding of the covered content. When an assignment is deemed satisfactory, it indicates that the student has effectively showcased their comprehension of the subject matter."
+  },
+  {
+    "objectID": "syllabus.html#project",
+    "href": "syllabus.html#project",
+    "title": "Geography 780 Neighborhoods",
+    "section": "Project",
+    "text": "Project\nThe final project is a key component of this seminar, where students will collaborate in small teams to address a neighborhood-centric research question. Projects will require applying the theory, concepts, and geospatial tools covered in the first part of the class, including PySAL, GeoSnap, and other open-source geospatial resources.\nTeams will:\n\nFormulate a Research Question: Identify a meaningful and feasible research question related to neighborhoods, incorporating theoretical insights and practical challenges.\nCollect and Process Data: Gather and harmonize neighborhood-related datasets necessary for their analysis.\nConduct Exploratory and Analytical Work: Perform exploratory spatial data analysis, statistical modeling, and visualization to address the research question.\nPresent Findings: Share their research results through a formal presentation and a written report, which will include a clear discussion of methods, results, and implications.\n\nThe project will be evaluated based on the quality of the research design, execution, and presentation. It is intended to synthesize learning from the seminar, offering students an opportunity to engage with real-world urban policy challenges and produce tangible outcomes that showcase their skills."
+  },
+  {
+    "objectID": "syllabus.html#sec-tokens",
+    "href": "syllabus.html#sec-tokens",
+    "title": "Geography 780 Neighborhoods",
+    "section": "Tokens",
+    "text": "Tokens\nEach student is provided with three tokens at the beginning of the semester.\n\nUsing Tokens\n\nCredit for a reading quiz that was failed (1 token).\nObtaining an extension for an exercise (1 token).\nRevising an exercise that was submitted on-time but evaluated as unsatisfactory (2 tokens)."
+  },
+  {
+    "objectID": "syllabus.html#policies",
+    "href": "syllabus.html#policies",
+    "title": "Geography 780 Neighborhoods",
+    "section": "Policies",
+    "text": "Policies\n\nAccommodations\nIf you are a student with a disability and are in need of accommodations for this class, please contact Student Ability Success Center at (619) 594-6473 as soon as possible. Please know accommodations are not retroactive, and I cannot provide accommodations based upon disability until I have received an accommodation letter from Student Ability Success Center.\n\n\nPrivacy and Intellectual Property\nStudent Privacy and Intellectual Property: The Family Educational Rights and Privacy Act (FERPA) mandates the protection of student information, including contact information, grades, and graded assignments. I will use Canvas to communicate with you, and I will not post grades or leave graded assignments in public places. Students will be notified at the time of an assignment if copies of student work will be retained beyond the end of the semester or used as examples for future students or the wider public. Students maintain intellectual property rights to work products they create as part of this course unless they are formally notified otherwise.\n\n\nAcademic Integrity\nThe SDSU student academic integrity policy lists violations in detail. These violations fall into eight broad areas that include but are not limited to: cheating, fabrication, plagiarism, facilitating academic misconduct, unauthorized collaboration, interference or sabotage, non-compliance with research regulations and retaliation. For more information about the SDSU student academic integrity policy, please see the following: https://sacd.sdsu.edu/student-rights/academic-dishonesty.\n\n\nCode of Conduct\nAs course instructor, I am dedicated to providing a harassment-free learning experience for all students, regardless of gender, sexual orientation, disability, physical appearance, body size, race, religion, or choice of operating system. All course participants are expected to show respect and courtesy to other students throughout the semester. As a learning community we do not tolerate harassment of participants in any form.\n\nAll communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery are not appropriate in this course.\nBe kind to others. Do not insult or put down other students. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for this course.\nStudents violating these rules may be asked to leave the course, and their violations will be reported to the SDSU administration.\n\nThis code of conduct is an adaptation of the SciPy 2018 Code of Conduct."
+  },
+  {
+    "objectID": "presentation_schedule.html",
+    "href": "presentation_schedule.html",
+    "title": "",
+    "section": "",
+    "text": "Code\n\n\n\n\n\nPresentation Schedule\n\n\n\nWeek\nDate\nReading\nLead\n\n\n\n\n2\n02-03\nGalster 2001\nSkrah\n\n\n\n02-03\nSampson 2002\nHenderson\n\n\n3\n02-10\nLogan 2016\nZoccheddu\n\n\n\n02-10\nSchroeder 2017\nGhebrendrias\n\n\n4\n02-17\nDelmelle 2015\nVingiello\n\n\n\n02-17\nRey 2011\nEuceda\n\n\n5\n02-24\nKang 2021\nValencia\n\n\n\n02-24\nOwens 2012\nLevin\n\n\n6\n03-03\nGray 2023\nTwyman\n\n\n\n03-03\nRucks-Ahidiana 2021\nMower\n\n\n7\n03-10\nKnaap 2017\nPortillo\n\n\n\n03-10\nWang 2024\nOrnelas\n\n\n8\n03-17\nKnaap 2024\nTBA\n\n\n\n03-17\nRey 2024\nTBA"
+  },
+  {
+    "objectID": "index.html#class-meetings",
+    "href": "index.html#class-meetings",
+    "title": "Geography 780 Neighborhoods",
+    "section": "Class Meetings",
+    "text": "Class Meetings\n\n\n\nMeeting\nLocation\nTime\n\n\n\n\nSeminar\nSH 325\nMon 12:00-2:40pm"
+  },
+  {
+    "objectID": "index.html#instructor",
+    "href": "index.html#instructor",
+    "title": "Geography 780 Neighborhoods",
+    "section": "Instructor",
+    "text": "Instructor\n\n\n\nName\nOffice hours\nLocation\n\n\n\n\nSergio Rey\nMon 3:00 - 4:00pm (by appointment)\nPSFA 361G"
+  },
+  {
+    "objectID": "index.html#introduction",
+    "href": "index.html#introduction",
+    "title": "Geography 780 Neighborhoods",
+    "section": "Introduction",
+    "text": "Introduction\nThis seminar explores the concept of neighborhoods from a theoretical, empirical, and methodological perspective, emphasizing geospatial tools such as PySAL and GeoSnap. We will engage with classic and contemporary research on neighborhood delineation, change, segregation, and accessibility, while also applying geospatial data science techniques to real-world urban policy questions.\nEach week will feature student-led discussions, focusing on key academic readings and methodological approaches. The seminar will culminate in a group project where students analyze a neighborhood-related research question using geospatial methods."
+  },
+  {
+    "objectID": "index.html#prerequisites",
+    "href": "index.html#prerequisites",
+    "title": "Geography 780 Neighborhoods",
+    "section": "Prerequisites",
+    "text": "Prerequisites\n\nGraduate standing or permission of instructor"
+  },
+  {
+    "objectID": "index.html#computational-learning",
+    "href": "index.html#computational-learning",
+    "title": "Geography 780 Neighborhoods",
+    "section": "Computational Learning",
+    "text": "Computational Learning\nWe will be using open source geospatial software throughout the course together with Jupyter Notebooks, and Python as our scripting language.\nAll software for the course will be made available through JupyterHub, a web-based framework. Students wishing to install these materials on their own machines will be given instructions to do so, but this is not required."
+  },
+  {
+    "objectID": "index.html#readings",
+    "href": "index.html#readings",
+    "title": "Geography 780 Neighborhoods",
+    "section": "Readings",
+    "text": "Readings\nAll required readings are available through the links listed below. Assigned readings should be completed before the date listed in the schedule (see below). Readings are essential for class discussions. Please complete them and reflect on their content before class."
+  },
+  {
+    "objectID": "index.html#schedule",
+    "href": "index.html#schedule",
+    "title": "Geography 780 Neighborhoods",
+    "section": "Schedule",
+    "text": "Schedule\n\nWeek 1 (01-27) Introduction\n\nCourse Introduction\nIntroduction to computational resources\n\n\n\nWeek 2 (02-03) Neighborhoods\n\nReadings\n\nGalster, George. “On the Nature of Neighbourhood.” Urban Studies (Routledge) 38, no. 12 (November 2001): 2111–24. https://doi.org/10.1080/00420980120087072.\nSampson, Robert J., Jeffrey D. Morenoff, and Thomas Gannon-Rowley. “Assessing ‘Neighborhood Effects’: Social Processes and New Directions in Research.” Annual Review of Sociology 28, no. 1 (August 2002): 443–78. https://doi.org/10.1146/annurev.soc.28.110601.141114.\n\n\n\nActivity\n\nPython Primer\nExercise 1 Out (Due 02-21)\n\n\n\n\nWeek 3 (02-10) Neighborhood Data\n\nReadings\n\nLogan, John R., Brian J. Stults, and Zengwang Xu. “Validating Population Estimates for Harmonized Census Tract Data, 2000-2010.” Annals of the American Association of Geographers 106, no. 5 (September 2016): 1013–29. https://doi.org/10.1080/24694452.2016.1187060.\nSchroeder, Jonathan P. “Hybrid Areal Interpolation of Census Counts from 2000 Blocks to 2010 Geographies.” Computers, Environment and Urban Systems 62 (March 2017): 53–63. https://doi.org/10.1016/j.compenvurbsys.2016.10.001.\n\n\n\nActivity\n\nGeopandas\n\n\n\n\nWeek 4 (02-17) Neighborhood Delineation\n\nReadings\n\nDelmelle, Elizabeth C. “Five Decades of Neighborhood Classifications and Their Transitions: A Comparison of Four US Cities, 1970–2010.” Applied Geography 57 (February 2015): 1–11. https://doi.org/10.1016/j.apgeog.2014.12.002.\nRey, Sergio J., L. Anselin, D.C. Folch, D. Arribas-Bel, M.L. Sastré Gutiérrez, and L. Interlante. “Measuring Spatial Dynamics in Metropolitan Areas.” Economic Development Quarterly 25, no. 1 (2011): 54.\n\n\n\nActivity\n\nGeoSNAP\nExercise 2 Out (Due 02-28)\n\n\n\n\nWeek 5 (02-24) Neighborhood Change\n\nReadings\n\nKang, Wei, Elijah Knaap, and Sergio Rey. “Changes in the Economic Status of Neighbourhoods in US Metropolitan Areas from 1980 to 2010: Stability, Growth and Polarisation.” Urban Studies, 2021, 27.\nOwens, Ann. “Neighborhoods on the Rise: A Typology of Neighborhoods Experiencing Socioeconomic Ascent.” City & Community 11, no. 4 (2012): 345–69. https://doi.org/10.1111/j.1540-6040.2012.01412.x.\n\n\n\nActivity\n\nModeling neighborhood change\n\n\n\n\nWeek 6 (03-03) Neighborhood Gentrification\n\nReadings\n\nGray, Jennie, Lisa Buckner, and Alexis Comber. “Identifying Neighbourhood Change Using a Data Primitive Approach: The Example of Gentrification.” Applied Spatial Analysis and Policy, March 8, 2023. https://doi.org/10.1007/s12061-023-09509-y.\nRucks-Ahidiana, Zawadi. “Racial Composition and Trajectories of Gentrification in the United States.” Urban Studies 58, no. 13 (October 2021): 2721–41. https://doi.org/10.1177/0042098020963853.\n\n\n\nActivity\n\nMeasuring gentrification\nExercise 3 Out (Due 03-14)\n\n\n\n\nWeek 7 (03-10) Neighborhood Accessibility\n\nReadings\n\nKnaap, Elijah. “The Cartography of Opportunity: Spatial Data Science for Equitable Urban Policy.” Housing Policy Debate 27, no. 6 (November 2, 2017): 913–40. https://doi.org/10.1080/10511482.2017.1331930.\nWang, Jianying, Mei-Po Kwan, Gezhi Xiu, and Fangxu Deng. “A Robust Method for Evaluating the Potentials of 15-Minute Cities: Implications for Sustainable Urban Futures.” Geography and Sustainability, August 2024, S2666683924000646. https://doi.org/10.1016/j.geosus.2024.07.004.\n\n\n\nActivity\n\nIsochrones and center identification\nProject Call for Proposals\n\n\n\n\nWeek 8 (03-17) Neighborhood Segregation\n\nReadings\n\nKnaap, Elijah, and Sergio Rey. “Segregated by Design? Street Network Topological Structure and the Measurement of Urban Segregation.” Environment and Planning B: Urban Analytics and City Science 51, no. 7 (September 2024): 1408–29. https://doi.org/10.1177/23998083231197956.\nRey, Sergio Joseph, and Elijah Knaap. “The Legacy of Redlining: A Spatial Dynamics Perspective.” International Regional Science Review, August 7, 2022, 016001762211165. https://doi.org/10.1177/01600176221116566.\n\n\n\nActivity\n\nComparative segregation\nExercise 4 Out (Due 04-11)\nProject Preferences\n\n\n\n\nWeek 9 (03-24) Project Studio: Introduction and Proposal Development\n\nForm project teams\nIdentify research question & study area\nBrainstorm data needs and methodology\nWorkshop: How to frame a good research question\n\n\n\nSpring Break (03-31)\n\n\nWeek 10 (04-07) Project Studio: Data Collection and Processing\n\nIdentify and obtain relevant neighborhood data\nData integration, cleaning, harmonization and interpolation\nProject Scoping Document (Due)\n\n\n\nWeek 11 (04-14) Project Studio: Exploratory Data Analysis and Visualization\n\nTeams create initial exploratory analyses of data and statistical visualizations\nProject Data Bibliography (Due)\n\n\n\nWeek 12 (04-21) Project Studio: Analytical Methods and Model Development\n\nTeams explore models and analytics for their specific project\nProject Exploratory Analysis (Due)\n\n\n\nWeek 13 (04-28) Project Studio: Analysis and Results\n\nContinued analysis and model refinement\nGeneration of initial findings\nProject Analytical Draft (Due)\n\n\n\nWeek 14 (05-05) Project Studio: Drafting Report and Initial Presentation\n\nTeams outline final report structure\nPractice presentations in small groups\n\n\n\nFinal Exam Activity (05-12)\n\nTeams present their project\nProject Computational Essay and Presentations Due"
+  },
+  {
+    "objectID": "index.html#grading",
+    "href": "index.html#grading",
+    "title": "Geography 780 Neighborhoods",
+    "section": "Grading",
+    "text": "Grading\nGEOG 780 uses specification grading in evaluating student work and in determining your final course grade. The quality and quantity of your work will determine your course grade. The acceptable level of quality demonstrates competency in the concepts and methods covered in the course.\nThere is a two-step process for determination of your final course grade at the end of the quarter:\n\nUsing your quizzes, project, and exercise grades together determine your base grade.\nUsing your remaining tokens, determine if your base grade includes a \"plus\", \"minus\", or remains as your final grade.\n\n\nBase Grade\nFor Step 1, the base grade is determined using the following specification:\nThresholds for base grade:\n\n\n\nItem\nA\nB\nC\nD\n\n\n\n\nQuizzes\n6\n4\n3\n2\n\n\nDiscussion Lead\n1\n1\n\n\n\n\nDiscussion Participation\n6\n4\n3\n2\n\n\nExercises\n4\n3\n2\n1\n\n\nProject\n1\n1\n\n\n\n\n\nYou must pass all the thresholds to obtain the base grade.\n\n\nFinal Grade\nFor Step 2, your final course grade is determined as follows:\n\n\n\nTokens\\Base\nA\nB\nC\nD\n\n\n\n\n&gt;=2\nA\nB+\nC+\nD+\n\n\n1\nA\nB\nC\nD\n\n\n0\nA-\nB-\nC-\nD-\n\n\n\n\n\n\n\n\n\nNote\n\n\n\nNote that SDSU grading policy does not allow A+ grades. However, if you have a base grade of A and score 90+ on your exam average, you are eligible for a letter of recommendation from the professor."
+  },
+  {
+    "objectID": "index.html#discussion",
+    "href": "index.html#discussion",
+    "title": "Geography 780 Neighborhoods",
+    "section": "Discussion",
+    "text": "Discussion\nA key component of the first part of the course is a focus on readings from the scientific literature on neighborhoods. Each student will be assigned a discussion lead, and all students are expected to participate in the class discussions of the weekly readings. All weekly readings are available on the canvas course site."
+  },
+  {
+    "objectID": "index.html#quizzes",
+    "href": "index.html#quizzes",
+    "title": "Geography 780 Neighborhoods",
+    "section": "Quizzes",
+    "text": "Quizzes\nStarting in week two there will be a quiz given during the first 5 minutes of our meeting that pertains to the background reading that is required before our work in class. Quizzes are graded on a pass/fail basis."
+  },
+  {
+    "objectID": "index.html#exercises",
+    "href": "index.html#exercises",
+    "title": "Geography 780 Neighborhoods",
+    "section": "Exercises",
+    "text": "Exercises\nFour exercises are assigned on the dates listed in the syllabus. These exercises are evaluated based on whether they demonstrate a sufficient understanding of the covered content. When an assignment is deemed satisfactory, it indicates that the student has effectively showcased their comprehension of the subject matter."
+  },
+  {
+    "objectID": "index.html#project",
+    "href": "index.html#project",
+    "title": "Geography 780 Neighborhoods",
+    "section": "Project",
+    "text": "Project\nThe final project is a key component of this seminar, where students will collaborate in small teams to address a neighborhood-centric research question. Projects will require applying the theory, concepts, and geospatial tools covered in the first part of the class, including PySAL, GeoSnap, and other open-source geospatial resources.\nTeams will:\n\nFormulate a Research Question: Identify a meaningful and feasible research question related to neighborhoods, incorporating theoretical insights and practical challenges.\nCollect and Process Data: Gather and harmonize neighborhood-related datasets necessary for their analysis.\nConduct Exploratory and Analytical Work: Perform exploratory spatial data analysis, statistical modeling, and visualization to address the research question.\nPresent Findings: Share their research results through a formal presentation and a written report, which will include a clear discussion of methods, results, and implications.\n\nThe project will be evaluated based on the quality of the research design, execution, and presentation. It is intended to synthesize learning from the seminar, offering students an opportunity to engage with real-world urban policy challenges and produce tangible outcomes that showcase their skills."
+  },
+  {
+    "objectID": "index.html#sec-tokens",
+    "href": "index.html#sec-tokens",
+    "title": "Geography 780 Neighborhoods",
+    "section": "Tokens",
+    "text": "Tokens\nEach student is provided with three tokens at the beginning of the semester.\n\nUsing Tokens\n\nCredit for a reading quiz that was failed (1 token).\nObtaining an extension for an exercise (1 token).\nRevising an exercise that was submitted on-time but evaluated as unsatisfactory (2 tokens)."
+  },
+  {
+    "objectID": "index.html#policies",
+    "href": "index.html#policies",
+    "title": "Geography 780 Neighborhoods",
+    "section": "Policies",
+    "text": "Policies\n\nAccommodations\nIf you are a student with a disability and are in need of accommodations for this class, please contact Student Ability Success Center at (619) 594-6473 as soon as possible. Please know accommodations are not retroactive, and I cannot provide accommodations based upon disability until I have received an accommodation letter from Student Ability Success Center.\n\n\nPrivacy and Intellectual Property\nStudent Privacy and Intellectual Property: The Family Educational Rights and Privacy Act (FERPA) mandates the protection of student information, including contact information, grades, and graded assignments. I will use Canvas to communicate with you, and I will not post grades or leave graded assignments in public places. Students will be notified at the time of an assignment if copies of student work will be retained beyond the end of the semester or used as examples for future students or the wider public. Students maintain intellectual property rights to work products they create as part of this course unless they are formally notified otherwise.\n\n\nAcademic Integrity\nThe SDSU student academic integrity policy lists violations in detail. These violations fall into eight broad areas that include but are not limited to: cheating, fabrication, plagiarism, facilitating academic misconduct, unauthorized collaboration, interference or sabotage, non-compliance with research regulations and retaliation. For more information about the SDSU student academic integrity policy, please see the following: https://sacd.sdsu.edu/student-rights/academic-dishonesty.\n\n\nCode of Conduct\nAs course instructor, I am dedicated to providing a harassment-free learning experience for all students, regardless of gender, sexual orientation, disability, physical appearance, body size, race, religion, or choice of operating system. All course participants are expected to show respect and courtesy to other students throughout the semester. As a learning community we do not tolerate harassment of participants in any form.\n\nAll communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery are not appropriate in this course.\nBe kind to others. Do not insult or put down other students. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for this course.\nStudents violating these rules may be asked to leave the course, and their violations will be reported to the SDSU administration.\n\nThis code of conduct is an adaptation of the SciPy 2018 Code of Conduct."
+  }
+]
