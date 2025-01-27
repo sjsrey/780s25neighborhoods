@@ -11,5 +11,7 @@ format:
     toc-depth: 3
     code-fold: true
     code-tools: true
+  pdf:
+    colorlinks: true
 
 bibliography: 780.bib
