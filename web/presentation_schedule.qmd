@@ -7,10 +7,10 @@
 | 3    | 02-10 | Logan 2016          | Zoccheddu    |
 |      | 02-10 | Schroeder 2017      | Ghebrendrias |
 | 4    | 02-17 | Delmelle 2015       | Vingiello    |
-|      | 02-17 | Rey 2011            | Euceda       |
+|      | 02-17 | Rey 2011            | Carson       |
 | 5    | 02-24 | Kang 2021           | Valencia     |
-|      | 02-24 | Owens 2012          | Levin        |
-| 6    | 03-03 | Gray 2023           | Twyman       |
+|      | 02-24 | Owens 2012          | Leonard      |
+| 6    | 03-03 | Gray 2023           | TBA          |
 |      | 03-03 | Rucks-Ahidiana 2021 | Mower        |
 | 7    | 03-10 | Knaap 2017          | Portillo     |
 |      | 03-10 | Wang 2024           | Ornelas      |
